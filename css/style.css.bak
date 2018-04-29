@@ -1,0 +1,23 @@
+a{
+  color: blue;
+}
+
+.myclass{
+  background-color: blue;
+}
+
+#mynavigation a{
+  color: red;
+}
+
+
+a:hover{
+  color: blue;
+}
+h2, p, footer{
+    text-align: center;
+}
+#contact h1{
+    text-align: center;
+	color: green;
+}
